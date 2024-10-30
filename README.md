@@ -2,5 +2,5 @@
 Repo for Software Engineer project
 
 ciaooo
- mattia brizi succhiami le palle 
- -L
+
+Mattia brizi impara ad usare git e github (non sono la stessa cosa)
