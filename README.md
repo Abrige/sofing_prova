@@ -1,4 +1,4 @@
 # sofing
 Repo for Software Engineer project
 
-ciaooo
+Questa modifica è in conflitto
